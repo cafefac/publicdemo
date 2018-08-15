@@ -1,2 +1,6 @@
 language: java
 sudo: false
+notifications:
+  slack:
+    rooms:
+    - tclans:NCwWm3egj2HKrKD2NxmTx6Qy#opschat

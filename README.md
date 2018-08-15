@@ -1,7 +1,7 @@
 # publicdemo
 
 
-./gradlew: Permission denied
+Error [./gradlew: Permission denied]
 ```bash
 git update-index --chmod=+x gradlew
 ```
